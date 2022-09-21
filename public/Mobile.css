@@ -1,0 +1,270 @@
+@media only screen and (max-width: 580px) {
+
+    * {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .main {
+        background-color: #14ff5e;
+        height: 900px;
+        width: 100vw;
+        color: #ebe0e0;
+    }
+
+    .images {
+        margin-left: 65px;
+        margin-top: 10px;
+        height: 1%;
+        width: 100%;
+    }
+
+    .imagesmini {
+        margin-left: 30px;
+        margin-top: 10px;
+        height: 1%;
+        width: 100%;
+    }
+
+    .text {
+        margin-top: 60px;
+        margin-left: 10px;
+        position: relative;
+    }
+
+    .textt {
+        display: inline-block;
+        margin-top: 70px;
+        margin-right: 130px;
+        position: relative;
+    }
+
+    .container1 {
+        height: 250px;
+        width: 100%;
+        padding-top: 100px;
+    }
+    
+    .box1 {
+        height: 90px;
+        width: 180px;
+        background-color: #009dae;
+        margin-bottom: 5px;
+        position: relative;
+        bottom: 150px;
+        left: 200px;
+    }
+    
+    
+    .box2 {
+        height: 90px;
+        width: 183px;
+        background-color: #623dbc;
+        margin-left: 5px;
+        margin-bottom: 5px;
+        position: relative;
+        left: 220px;
+        bottom: 150px;
+
+    }
+    .box3 {
+        height: 90px;
+        width: 87.5px;
+        background-color: #2d8aef;
+        margin-left: 5px;
+        margin-bottom: 5px;
+        position: relative;
+        left: -170px;
+        bottom: 55px;
+    }
+    
+    .box4 {
+        height: 90px;
+        width: 87.5px;
+        background-color: #008e00;
+        margin-left: 5px;
+        margin-bottom: 5px;
+        position: relative;
+        left: -170px;
+        bottom: 55px;
+    }
+    
+    .box5 {
+        height: 90px;
+        width: 180px;
+        background-image: url(./Images/Mountain.jpg);
+        margin-left: 25px;
+        margin-bottom: 5px;
+        position: relative;
+        left: -170px;
+        bottom: 55px;
+    }
+
+
+    .container2 {
+        width: 100%;
+    }
+    
+    
+    .box6 {
+        height: 90px;
+        width: 180px;
+        background-color: #db562e;
+        margin-bottom: 5px;
+        position: relative;
+        left: 200px;
+        bottom: 55px;
+    }
+    
+    .box7 {
+        height: 90px;
+        width: 180px;
+        background-color: #00889e;
+        margin-left: 5px;
+        margin-bottom: 5px;
+        position: relative;
+        left: 220px;
+        bottom: 55px;
+    }
+    
+    .box8 {
+        height: 90px;
+        width: 87.5px;
+        background-color: #a000a8;
+        margin-left: 5px;
+        margin-bottom: 5px;
+        position: relative;
+        left: -170px;
+        bottom: -40px;
+    }
+    
+    .box9 {
+        height: 90px;
+        width: 87.5px;
+        background-color: #0a58c1;
+        margin-left: 5px;
+        margin-bottom: 5px;
+        position: relative;
+        left: -170px;
+        bottom: -40px;
+    }
+    
+    .box10 {
+        height: 90px;
+        width: 180px;
+        background-color: #009bad;
+        margin-left: 25px;
+        margin-bottom: 5px;
+        position: relative;
+        left: -170px;
+        bottom: -40px;
+    }
+    
+    .container3 {
+        width: 100%;
+    }
+    
+    
+    .box11 {
+        height: 90px;
+        width: 180px;
+        background-color: #a300aa;
+        margin-bottom: 5px;
+        position: relative;
+        left: 200px;
+        bottom: -135px;
+    }
+    
+    .box12 {
+        height: 90px;
+        width: 180px;
+        background-color: #00a400;
+        margin-left: 5px;
+        position: relative;
+        left: 220px;
+        bottom: -135px;
+    }
+    
+    .box13 {
+        height: 90px;
+        width: 180px;
+        background-color: #613cbb;
+        margin-left: 5px;
+        position: relative;
+        left: -170px;
+        bottom: -40px;
+    }
+    
+    .box14 {
+        height: 90px;
+        width: 87.5px;
+        background-color: #009e00;
+        left: 100px;
+        position: relative;
+        left: -170px;
+        bottom: -40px;
+    }
+    
+    .box15 {
+        height: 90px;
+        width: 87.5px;
+        background-color: #a200a9;
+        margin-left: 5px;
+        position: relative;
+        left: -170px;
+        bottom: -40px;
+    }
+    
+    .container4 {
+        width: 100%;
+    }
+    
+    
+    .box16 {
+        height: 90px;
+        width: 180px;
+        background-color: #4b97d9;
+        position: relative;
+        left: 200px;
+        bottom: -135px;
+    }
+    
+    .box17 {
+        height: 90px;
+        width: 180px;
+        background-color: #2d88ef;
+        margin-left: 5px;
+        position: relative;
+        left: 220px;
+        bottom: -135px;
+    }
+    .box18 {
+        height: 90px;
+        width: 180px;
+        background-color: #be1e4a;
+        margin-left: 5px;
+        position: relative;
+        left: -170px;
+        bottom: -230px;
+    }
+    
+    .box19 {
+        height: 90px;
+        width: 87.5px;
+        background-color: #db552d;
+        margin-left: 25px;
+        position: relative;
+        left: -170px;
+        bottom: -230px;
+    }
+    
+    .box20 {
+        height: 90px;
+        width: 87.5px;
+        background-color: #b91d47;
+        margin-left: 5px;
+        position: relative;
+        left: -170px;
+        bottom: -230px;
+    }
+}

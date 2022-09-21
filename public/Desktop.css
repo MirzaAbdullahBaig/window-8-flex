@@ -11,15 +11,6 @@
 }
 
 
-
-.container1 {
-    height: 250px;
-    width: 100vw;
-    display: flex;
-    justify-content: center;
-    align-items: flex-end;
-}
-
 .images {
     margin-left: 65px;
     margin-top: 10px;
@@ -34,6 +25,12 @@
     width: 100%;
 }
 
+.text {
+    margin-top: 60px ;
+    margin-left: 10px ;
+    position: relative;
+}
+
 .textt {
     display: inline-block;
     margin-top: 70px ;
@@ -41,10 +38,12 @@
     position: relative;
 }
 
-.text {
-    margin-top: 60px ;
-    margin-left: 10px ;
-    position: relative;
+.container1 {
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
 }
 
 .box1 {
@@ -88,7 +87,7 @@
 
 
 .container2 {
-    width: 100vw;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -135,7 +134,7 @@
 }
 
 .container3 {
-    width: 100vw;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -178,7 +177,7 @@
 }
 
 .container4 {
-    width: 100vw;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: flex-start;
