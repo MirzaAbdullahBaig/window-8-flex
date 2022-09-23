@@ -6,37 +6,40 @@
     }
 
     .main {
-        background-color: #14ff5e;
-        height: 900px;
+        background-color: #180052;
+        height: 130vh;
         width: 100vw;
         color: #ebe0e0;
     }
 
     .images {
-        margin-left: 65px;
-        margin-top: 10px;
+        position: relative;
+        top: -3px;
+        left: -3px;
         height: 1%;
         width: 100%;
     }
 
     .imagesmini {
-        margin-left: 30px;
-        margin-top: 10px;
+        position: relative;
+        left: -3px;
+        top: 10px;
         height: 1%;
         width: 100%;
     }
 
     .text {
-        margin-top: 60px;
-        margin-left: 10px;
         position: relative;
+        top: -5px;
+        left: -5px;
     }
 
     .textt {
-        display: inline-block;
-        margin-top: 70px;
-        margin-right: 130px;
+        display: block;
         position: relative;
+        left: 3px;
+        top: -15px;
+        right: 30px;
     }
 
     .container1 {
@@ -46,58 +49,58 @@
     }
     
     .box1 {
-        height: 90px;
-        width: 180px;
+        height: 75px;
+        width: 130px;
         background-color: #009dae;
         margin-bottom: 5px;
         position: relative;
         bottom: 150px;
-        left: 200px;
+        left: 135px;
     }
     
     
     .box2 {
-        height: 90px;
-        width: 183px;
+        height: 75px;
+        width: 130px;
         background-color: #623dbc;
         margin-left: 5px;
         margin-bottom: 5px;
         position: relative;
-        left: 220px;
+        left: 145px;
         bottom: 150px;
 
     }
     .box3 {
-        height: 90px;
-        width: 87.5px;
+        height: 75px;
+        width: 62.5px;
         background-color: #2d8aef;
         margin-left: 5px;
         margin-bottom: 5px;
         position: relative;
-        left: -170px;
-        bottom: 55px;
+        left: -135px;
+        bottom: 60px;
     }
     
     .box4 {
-        height: 90px;
-        width: 87.5px;
+        height: 75px;
+        width: 62.5px;
         background-color: #008e00;
         margin-left: 5px;
         margin-bottom: 5px;
         position: relative;
-        left: -170px;
-        bottom: 55px;
+        left: -135px;
+        bottom: 60px;
     }
     
     .box5 {
-        height: 90px;
-        width: 180px;
+        height: 75px;
+        width: 130px;
         background-image: url(./Images/Mountain.jpg);
         margin-left: 25px;
         margin-bottom: 5px;
         position: relative;
-        left: -170px;
-        bottom: 55px;
+        left: -143px;
+        bottom: 60px;
     }
 
 
@@ -107,57 +110,57 @@
     
     
     .box6 {
-        height: 90px;
-        width: 180px;
+        height: 75px;
+        width: 130px;
         background-color: #db562e;
         margin-bottom: 5px;
         position: relative;
-        left: 200px;
+        left: 137px;
         bottom: 55px;
     }
     
     .box7 {
-        height: 90px;
-        width: 180px;
+        height: 75px;
+        width: 130px;
         background-color: #00889e;
         margin-left: 5px;
         margin-bottom: 5px;
         position: relative;
-        left: 220px;
+        left: 148px;
         bottom: 55px;
     }
     
     .box8 {
-        height: 90px;
-        width: 87.5px;
+        height: 75px;
+        width: 62.5px;
         background-color: #a000a8;
         margin-left: 5px;
         margin-bottom: 5px;
         position: relative;
-        left: -170px;
-        bottom: -40px;
+        left: 82px;
+        bottom: -30px;
     }
     
     .box9 {
-        height: 90px;
-        width: 87.5px;
+        height: 75px;
+        width: 62.5px;
         background-color: #0a58c1;
         margin-left: 5px;
         margin-bottom: 5px;
         position: relative;
-        left: -170px;
-        bottom: -40px;
+        left: -53px;
+        bottom: -30px;
     }
     
     .box10 {
-        height: 90px;
-        width: 180px;
+        height: 75px;
+        width: 130px;
         background-color: #009bad;
         margin-left: 25px;
         margin-bottom: 5px;
         position: relative;
-        left: -170px;
-        bottom: -40px;
+        left: -288px;
+        bottom: -30px;
     }
     
     .container3 {
@@ -166,53 +169,53 @@
     
     
     .box11 {
-        height: 90px;
-        width: 180px;
+        height: 75px;
+        width: 130px;
         background-color: #a300aa;
         margin-bottom: 5px;
         position: relative;
-        left: 200px;
-        bottom: -135px;
+        left: 138px;
+        bottom: -35px;
     }
     
     .box12 {
-        height: 90px;
-        width: 180px;
+        height: 75px;
+        width: 130px;
         background-color: #00a400;
         margin-left: 5px;
         position: relative;
-        left: 220px;
-        bottom: -135px;
+        left: 150px;
+        bottom: -35px;
     }
     
     .box13 {
-        height: 90px;
-        width: 180px;
+        height: 75px;
+        width: 130px;
         background-color: #613cbb;
         margin-left: 5px;
         position: relative;
-        left: -170px;
-        bottom: -40px;
+        left: 16px;
+        bottom: -120px;
     }
     
     .box14 {
-        height: 90px;
-        width: 87.5px;
+        height: 75px;
+        width: 62.5px;
         background-color: #009e00;
         left: 100px;
         position: relative;
-        left: -170px;
-        bottom: -40px;
+        left: -287px;
+        bottom: -120px;
     }
     
     .box15 {
-        height: 90px;
-        width: 87.5px;
+        height: 75px;
+        width: 62.5px;
         background-color: #a200a9;
         margin-left: 5px;
         position: relative;
-        left: -170px;
-        bottom: -40px;
+        left: -287px;
+        bottom: -120px;
     }
     
     .container4 {
@@ -221,50 +224,50 @@
     
     
     .box16 {
-        height: 90px;
-        width: 180px;
+        height: 75px;
+        width: 130px;
         background-color: #4b97d9;
         position: relative;
-        left: 200px;
-        bottom: -135px;
+        left: 138px;
+        bottom: -125px;
     }
     
     .box17 {
-        height: 90px;
-        width: 180px;
+        height: 75px;
+        width: 130px;
         background-color: #2d88ef;
         margin-left: 5px;
         position: relative;
-        left: 220px;
-        bottom: -135px;
+        left: 152px;
+        bottom: -125px;
     }
     .box18 {
-        height: 90px;
-        width: 180px;
+        height: 75px;
+        width: 130px;
         background-color: #be1e4a;
         margin-left: 5px;
         position: relative;
-        left: -170px;
-        bottom: -230px;
+        left: -132px;
+        bottom: -210px;
     }
     
     .box19 {
-        height: 90px;
-        width: 87.5px;
+        height: 75px;
+        width: 62.5px;
         background-color: #db552d;
         margin-left: 25px;
         position: relative;
-        left: -170px;
-        bottom: -230px;
+        left: -137px;
+        bottom: -210px;
     }
     
     .box20 {
-        height: 90px;
-        width: 87.5px;
+        height: 75px;
+        width: 62.5px;
         background-color: #b91d47;
         margin-left: 5px;
         position: relative;
-        left: -170px;
-        bottom: -230px;
+        left: -137px;
+        bottom: -210px;
     }
 }

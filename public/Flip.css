@@ -32,6 +32,38 @@
   perspective: 1000px;
 }
 
+@media only screen and (max-width: 580px) {
+  .same .flip-card {
+    background-color: transparent;
+    width: 62.5px;
+    height: 75px;
+    perspective: 1000px;
+  }
+  
+  .flip-card {
+    background-color: transparent;
+    width: 130px;
+    height: 75px;
+    perspective: 1000px;
+  }
+}
+
+@media only screen and (max-width: 880px) and (min-width: 580px) {
+  .same .flip-card {
+    background-color: transparent;
+    width: 72.5px;
+    height: 75px;
+    perspective: 1000px;
+  }
+  
+  .flip-card {
+    background-color: transparent;
+    width: 150px;
+    height: 75px;
+    perspective: 1000px;
+  }
+}
+
 .flip-card-inner {
   position: relative;
   width: 100%;
